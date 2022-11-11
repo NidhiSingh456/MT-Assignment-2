@@ -1,0 +1,12 @@
+Binary write mode is NOT selected
+Scorer type: BLEU
+name: case value: true
+Loading reference from /home/mukesh/Desktop/MT/dev.true.en
+...................Data::m_score_type BLEU
+Data::Scorer type from Scorer: BLEU
+loading nbest from run11.best100.out.gz
+Loaded N-best lists : [Wall 5.07384 CPU 5.07291] seconds.
+Binary write mode is NOT selected
+saving the array into run11.features.dat
+saving the array into run11.scores.dat
+Stopping... : [Wall 10.9095 CPU 10.9066] seconds.
